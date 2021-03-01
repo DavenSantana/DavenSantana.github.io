@@ -40,7 +40,18 @@ p{
 	
 }
 
-
 .text-container{
 	text-align: center;
+}
+
+.btn{
+	background-color: rgb(51, 102, 153);
+	padding: 10px;
+	font-size: 20px;
+	text-decoration: none;
+	color: rgb(244, 240, 240);
+}
+
+.btn:hover{
+	background-color: rgba(51, 102, 153, 70%);
 }
