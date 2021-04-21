@@ -58,18 +58,13 @@ p{
 	background-color: rgba(51, 102, 153, 70%);
 }
 
-.qcFirstList{
+.multipleProjectLinks{
 	list-style: none;
-    display: flex;
-    align-items: stretch;
     justify-content: center;
     width: 100%;
-    margin-top: 20px;
     padding: 0;
-	padding-top: 20px;
-    padding-bottom: 20px;
 }
 
-.qcFirstList li{
-	margin-right: 10px;
+.multipleProjectLinks li{
+	margin-bottom: 30px;
 }
