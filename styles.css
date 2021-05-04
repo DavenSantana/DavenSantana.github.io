@@ -1,5 +1,5 @@
 header{
-	background-color: rgb(255, 204, 0);
+	background-color: #FBEEC1;
 	margin-top: -50px;
 	padding: 50px;
 }
@@ -35,11 +35,10 @@ p{
 	font-size: 20px;
 }
 
-.project1{
+.project{
 	margin-top: -20px;
 	padding: 50px;
-	background-color: rgb(204, 204, 255);
-	
+	background-color: #B1A296;
 }
 
 .text-container{
@@ -47,11 +46,11 @@ p{
 }
 
 .project .btn{
-	background-color: rgb(51, 102, 153);
+	background-color: #5D5C61;
 	padding: 10px;
 	font-size: 20px;
 	text-decoration: none;
-	color: rgb(244, 240, 240);
+	color: black;
 }
 
 .project .btn:hover{
@@ -67,4 +66,14 @@ p{
 
 .multipleProjectLinks li{
 	margin-bottom: 30px;
+}
+
+.about{
+	background-color: #557A95;
+	margin-top: -50px;
+	padding-bottom: 40px;
+}
+
+.about h2{
+	padding-top: 50px;
 }
